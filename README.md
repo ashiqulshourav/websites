@@ -1,5 +1,5 @@
 # websites
-Here i store my bulid up websites. You can see here what's languages I use. 
+Here i store my bulid up websites. You can see here what languages I use. 
 
 1. <a href="https://ashiqulshourav.github.io/me/" target="_blank"> Me </a>
 2. <a href="https://ashiqulshourav.github.io/BrilliantDotConset/" target="_blank"> Conset </a>
